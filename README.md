@@ -39,19 +39,29 @@ My program uses the built-in random module of Python, and no additional Python l
 # How to Open and Run
 
 1. Download DineDecide.py from this GitHub repository.
+
 2. Open IDLE.
+
 3. Select File.
+
 4. Click Open and open DineDecide.py.
+
 5. Select Run.
+
 6. Click Run Module or press F5.
+
 7. Follow the instructions in the Python Shell.
 
 # How to Use
 
 1. View the cuisine list and enter a cuisine.
+
 2. Choose one of the available locations.
+
 3. If the program asks you to input a minimum Chef Hat rating, enter a number from the displayed ratings. Restaurants with that rating or higher can be recommended.
+
 4. Read the restaurant name and Chef Hat ratings that DineDecide recommends.
+
 5. Select the next step:
 
    option 1: Recommend another restaurant (when more matching restaurants are available).
